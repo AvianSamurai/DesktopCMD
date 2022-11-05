@@ -1,0 +1,4 @@
+bg-color:#7F000000
+fg-color:#FFFFFFFF
+corner-radius:30
+run-without-seperate-java-program:true
