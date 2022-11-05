@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ws55z+OgYolWUTO1hsC6ikXZ0Mek6r61QJqcdIL4H7nP4laHR04WX/dJiSB7IENFd1lGmoAHTeuR8ejr2vpbyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kyron\\OneDrive\\Desktop\\DesktopCMD\\source code\\DesktopCMD\\DesktopCMD\\DesktopCMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyron\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shortcuts Launcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shortcuts_Launcher_jar</output-path>
+    <root id="archive" name="Shortcuts Launcher.jar">
+      <element id="module-output" name="Shortcuts Launcher" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.9/commons-text-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
