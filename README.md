@@ -13,6 +13,7 @@ This was never intended for distribution and there will likely be no updates. th
 This path is not editable, to edit it you will have to recompile the java and place the new jar file in the pg folder of the DesktopCMD app.
 
 ## Installation
-- Chuck the main files in a folder where ever you like
+- Make sure you have Java 17
+- Chuck the main files in a folder where ever you like as long as the directory has no space in the path
 - I suggest adding a shortcut to the DesktopCMD.exe to C:\ProgramData\Microsoft\Windows\Start Menu\Programs so its available in your start menu
 - Also add a shortcut to DesktopCMD.exe to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup if you want it to auto start with your pc
